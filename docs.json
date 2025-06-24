@@ -4,8 +4,8 @@
     "name": "Faucet Crypto",
     "colors": {
         "primary": "#9333EA",
-        "light": "#07C983",
-        "dark": "#15803D"
+        "light": "#9333EA",
+        "dark": "#9333EA"
     },
     "favicon": "/favicon.svg",
     "navigation": {
@@ -19,17 +19,6 @@
                             "index",
                             "quickstart",
                             "development"
-                        ]
-                    },
-                    {
-                        "group": "Essentials",
-                        "pages": [
-                            "essentials/markdown",
-                            "essentials/code",
-                            "essentials/images",
-                            "essentials/settings",
-                            "essentials/navigation",
-                            "essentials/reusable-snippets"
                         ]
                     }
                 ]
