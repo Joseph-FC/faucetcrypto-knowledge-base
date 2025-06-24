@@ -16,9 +16,9 @@
                     {
                         "group": "Get Started",
                         "pages": [
-                            "get-started/index",
-                            "get-started/quickstart",
-                            "get-started/development"
+                            "get-started/what-is-faucetcrypto",
+                            "get-started/how-to-register-on-faucetcrypto",
+                            "get-started/is-faucetcrypto-free-to-use"
                         ]
                     }
                 ]
