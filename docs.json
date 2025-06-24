@@ -3,9 +3,9 @@
     "theme": "mint",
     "name": "Faucet Crypto",
     "colors": {
-        "primary": "#9333EA",
-        "light": "#9333EA",
-        "dark": "#9333EA"
+        "primary": "#9333ea",
+        "light": "#9333ea",
+        "dark": "#9333ea"
     },
     "favicon": "/favicon.svg",
     "navigation": {
