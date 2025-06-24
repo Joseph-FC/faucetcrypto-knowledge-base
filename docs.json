@@ -18,15 +18,22 @@
                         "pages": [
                             "get-started/what-is-faucetcrypto?",
                             "get-started/how-to-register-on-faucetcrypto?",
-                            "get-started/is-faucetcrypto-free-to-use?"
+                            "get-started/is-faucetcrypto-free-to-use?",
+                            "get-started/is-faucetcrypto-supported-in-my-country?",
+                            "get-started/how-much-can-i-earn-on-faucetcrypto?",
+                            "get-started/what-are-coins?",
+                            "get-started/can-i-create-multiple-accounts?",
+                            "get-started/can-i-use-bots-scripts-or-vpn-proxy?",
+                            "get-started/does-faucetcrypto-have-an-affiliate-referral-program?",
+                            "get-started/does-faucetcrypto-have-an-android-app?"
                         ]
                     },
                     {
-                        "group": "Earning & Leveling",
+                        "group": "Earning and Leveling",
                         "pages": [
-                            "get-started/what-is-faucetcrypto?",
-                            "get-started/how-to-register-on-faucetcrypto?",
-                            "get-started/is-faucetcrypto-free-to-use?"
+                            "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
+                            "earning-and-leveling/how-to-register-on-faucetcrypto?",
+                            "earning-and-leveling/is-faucetcrypto-free-to-use?"
                         ]
                     }
                 ]
