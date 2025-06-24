@@ -43,7 +43,7 @@
         "primary": {
             "type": "button",
             "label": "Support",
-            "href": "mailto:support@faucetcrypto.com"
+            "href": "https://faucetcrypto.com/support"
         }
     },
     "footer": {
