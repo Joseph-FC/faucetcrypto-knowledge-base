@@ -77,27 +77,25 @@
                     }
                 ]
             }
-        ],
-        "global": {
-            "anchors": [
-                {
-                    "anchor": "Blog",
-                    "href": "https://faucetcrypto.com/blog",
-                    "icon": "newspaper"
-                }
-            ]
-        }
+        ]
     },
     "logo": {
         "light": "/logo/faucetcrypto-logo-light.svg",
         "dark": "/logo/faucetcrypto-logo-dark.svg"
     },
     "navbar": {
-        "links": [],
+        "links": [
+            {
+                "label": "Blog",
+                "href": "https://faucetcrypto.com/blog",
+                "icon": "newspaper"
+            }
+        ],
         "primary": {
             "type": "button",
             "label": "Contact Support",
-            "href": "https://faucetcrypto.com/support"
+            "href": "https://faucetcrypto.com/support",
+            "icon": "messages"
         }
     },
     "footer": {
