@@ -13,7 +13,7 @@
         "tabs": [
             {
                 "tab": "Knowledge Base",
-                "groups": [
+                "sections": [
                     {
                         "section": "Get Started",
                         "pages": [
