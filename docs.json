@@ -1,6 +1,6 @@
 {
     "$schema": "https://faucetcrypto.mintlify.app/docs.json",
-    "theme": "mint",
+    "theme": "willow",
     "name": "Faucet Crypto",
     "colors": {
         "primary": "#9333ea",
@@ -34,9 +34,9 @@
                         "group": "Earning and Leveling",
                         "collapsible": true,
                         "pages": [
-                            "how-to-start-earning-on-faucetcrypto?",
-                            "how-to-register-on-faucetcrypto?",
-                            "is-faucetcrypto-free-to-use?"
+                            "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
+                            "earning-and-leveling/how-to-register-on-faucetcrypto?",
+                            "earning-and-leveling/is-faucetcrypto-free-to-use?"
                         ]
                     },
                     {
