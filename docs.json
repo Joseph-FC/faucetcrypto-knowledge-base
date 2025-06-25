@@ -13,9 +13,9 @@
         "tabs": [
             {
                 "tab": "Knowledge Base",
-                "sections": [
+                "groups": [
                     {
-                        "section": "Get Started",
+                        "group": "Get Started",
                         "pages": [
                             "get-started/what-is-faucetcrypto?",
                             "get-started/how-to-register-on-faucetcrypto?",
@@ -30,7 +30,7 @@
                         ]
                     },
                     {
-                        "section": "Earning and Leveling",
+                        "group": "Earning and Leveling",
                         "pages": [
                             "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
                             "earning-and-leveling/how-to-register-on-faucetcrypto?",
@@ -38,7 +38,7 @@
                         ]
                     },
                     {
-                        "section": "Items and Market",
+                        "group": "Items and Market",
                         "pages": [
                             "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
                             "earning-and-leveling/how-to-register-on-faucetcrypto?",
@@ -46,7 +46,7 @@
                         ]
                     },
                     {
-                        "section": "Withdrawals",
+                        "group": "Withdrawals",
                         "pages": [
                             "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
                             "earning-and-leveling/how-to-register-on-faucetcrypto?",
@@ -54,7 +54,7 @@
                         ]
                     },
                     {
-                        "section": "Account and Security",
+                        "group": "Account and Security",
                         "pages": [
                             "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
                             "earning-and-leveling/how-to-register-on-faucetcrypto?",
@@ -62,7 +62,7 @@
                         ]
                     },
                     {
-                        "section": "Tutorials",
+                        "group": "Tutorials",
                         "pages": [
                             "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
                             "earning-and-leveling/how-to-register-on-faucetcrypto?",
