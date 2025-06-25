@@ -94,7 +94,8 @@
         "primary": {
             "type": "button",
             "label": "Contact Support",
-            "href": "https://faucetcrypto.com/support"
+            "href": "https://faucetcrypto.com/support",
+            "icon": "comment"
         }
     },
     "footer": {
