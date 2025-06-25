@@ -9,7 +9,7 @@
     },
     "favicon": "/logo/faucetcrypto-favicon.svg",
     "background": {
-  "decoration": "gradient",
+  "decoration": "grid",
   "color": {
     "light": "#9333EA",
     "dark": "#9333EA"
