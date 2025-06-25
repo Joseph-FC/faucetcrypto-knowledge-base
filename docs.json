@@ -90,14 +90,13 @@
                 "label": "Blog",
                 "href": "https://faucetcrypto.com/blog",
                 "icon": "newspaper"
-            }
-        ],
-        "primary": {
-            "type": "button",
+            },
+        {
             "label": "Contact Support",
             "href": "https://faucetcrypto.com/support",
             "icon": "messages"
         }
+      ]
     },
     "footer": {
         "socials": {
