@@ -8,7 +8,7 @@
         "dark": "#9333EA"
     },
     "favicon": "/logo/faucetcrypto-favicon.svg",
-    "decoration": "gradient",
+    "decoration": "grid",
     "navigation": {
         "tabs": [
             {
@@ -22,10 +22,10 @@
                             "get-started/how-to-register-on-faucetcrypto?",
                             "get-started/is-faucetcrypto-free-to-use?",
                             "get-started/is-faucetcrypto-supported-in-my-country?",
-                            "get-started/how-much-can-I-earn-on-faucetcrypto?",
+                            "get-started/how-much-can-i-earn-on-faucetcrypto?",
                             "get-started/what-are-coins?",
-                            "get-started/can-I-create-multiple-accounts?",
-                            "get-started/can-I-use-bots-scripts-or-vpn-proxy?",
+                            "get-started/can-i-create-multiple-accounts?",
+                            "get-started/can-i-use-bots-scripts-or-vpn-proxy?",
                             "get-started/does-faucetcrypto-have-an-affiliate-referral-program?",
                             "get-started/does-faucetcrypto-have-an-android-app?"
                         ]
@@ -35,44 +35,57 @@
                         "collapsible": true,
                         "pages": [
                             "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
-                            "earning-and-leveling/how-to-register-on-faucetcrypto?",
-                            "earning-and-leveling/is-faucetcrypto-free-to-use?"
+                            "earning-and-leveling/what-are-offerwalls?",
+                            "earning-and-leveling/what-are-levels-for-how-to-level-up-fast?",
+                          "earning-and-leveling/what-are-challenges?",
+                            "earning-and-leveling/i-have-noticed-an-offerwall-chargeback-on-my-account-what-can-i-do?",
+                            "earning-and-leveling/what-is-a-trust-score?",
+                            "earning-and-leveling/how-to-complete-bitcotasks-ptc-ads-successfully?"
                         ]
                     },
                     {
                         "group": "Items and Market",
                         "collapsible": true,
                         "pages": [
-                            "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
-                            "earning-and-leveling/how-to-register-on-faucetcrypto?",
-                            "earning-and-leveling/is-faucetcrypto-free-to-use?"
+                            "items-and-market/what-are-items-and-how-do-i-get-item?",
+                            "items-and-market/where-can-i-find-my-items-and-how-can-i-activate-them?",
+                            "items-and-market/how-to-sell-items-or-cancel-a-sell-order?",
+                            "items-and-market/how-to-buy-items-from-the-market?"
                         ]
                     },
                     {
                         "group": "Withdrawals",
                         "collapsible": true,
                         "pages": [
-                            "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
-                            "earning-and-leveling/how-to-register-on-faucetcrypto?",
-                            "earning-and-leveling/is-faucetcrypto-free-to-use?"
+                            "withdrawals/what-is-the-minimum-withdraw-amount-and-fees?",
+                            "withdrawals/what-wallet-can-i-withdraw-my-crypto-to?",
+                            "withdrawals/how-to-withdraw-from-faucetcrypto?",
+                            "withdrawals/how-long-will-it-take-to-receive-my-withdrawal?",
+                            "withdrawals/my-withdrawal-is-completed-but-i-cant-find-it"
                         ]
                     },
                     {
                         "group": "Account and Security",
                         "collapsible": true,
                         "pages": [
-                            "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
-                            "earning-and-leveling/how-to-register-on-faucetcrypto?",
-                            "earning-and-leveling/is-faucetcrypto-free-to-use?"
+                            "account-and-security/how-to-update-my-profile?",
+                            "account-and-security/how-to-change-password?",
+                            "account-and-security/how-to-enable-disable-2fa-security?",
+                           "account-and-security/i-lost-access-to-my-two-factor-authentication-app-how-can-i-access-my-account?",
+                            "account-and-security/how-to-delete-my-account?",
+                            "account-and-security/can-i-change-my-email?"
                         ]
                     },
                     {
                         "group": "Tutorials",
                         "collapsible": true,
                         "pages": [
-                            "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
-                            "earning-and-leveling/how-to-register-on-faucetcrypto?",
-                            "earning-and-leveling/is-faucetcrypto-free-to-use?"
+                            "tutorials/i-get-anomaly-detected-error-when-solving-captcha-what-can-i-do?",
+                            "tutorials/why-does-my-balance-keep-decreasing?",
+                            "tutorials/i-have-viewed-all-ptc-ads-how-can-i-earn-more?",
+                            "tutorials/when-do-ptc-ads-get-reset-how-can-i-get-more?",
+                            "tutorials/i-completed-an-offer-but-i-didnt-receive-the-coins?",
+                            "tutorials/how-to-change-my-theme-light-dark-theme?"
                         ]
                     }
                 ]
@@ -89,14 +102,13 @@
                 "label": "Blog",
                 "href": "https://faucetcrypto.com/blog",
                 "icon": "newspaper"
-            }
-        ],
-        "primary": {
-            "type": "button",
+            },
+        {
             "label": "Contact Support",
             "href": "https://faucetcrypto.com/support",
-            "icon": "messages"
+            "icon": "messages-question"
         }
+      ]
     },
     "footer": {
         "socials": {
