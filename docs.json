@@ -9,6 +9,7 @@
     },
     "favicon": "/logo/faucetcrypto-favicon.svg",
     "decoration": "gradient",
+    "eyebrows": "breadcrumbs",
     "navigation": {
         "tabs": [
             {
@@ -91,8 +92,7 @@
         "primary": {
             "type": "button",
             "label": "Support",
-            "href": "https://faucetcrypto.com/support",
-            "icon": "message"
+            "href": "https://faucetcrypto.com/support"
         }
     },
     "footer": {
