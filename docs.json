@@ -87,7 +87,8 @@
         "links": [
             {
                 "label": "Blog",
-                "href": "https://faucetcrypto.com/blog"
+                "href": "https://faucetcrypto.com/blog",
+                "icon": "newspaper"
             }
         ],
         "primary": {
