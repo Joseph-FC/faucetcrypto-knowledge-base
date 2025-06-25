@@ -80,9 +80,12 @@
                         "group": "Tutorials",
                         "collapsible": true,
                         "pages": [
-                            "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
-                            "earning-and-leveling/how-to-register-on-faucetcrypto?",
-                            "earning-and-leveling/is-faucetcrypto-free-to-use?"
+                            "tutorials/i-get-anomaly-detected-error-when-solving-captcha-what-can-i-do?",
+                            "tutorials/why-does-my-balance-keep-decreasing?",
+                            "tutorials/i-have-viewed-all-ptc-ads-how-can-i-earn-more?",
+                            "tutorials/when-do-ptc-ads-get-reset-how-can-i-get-more?",
+                            "tutorials/i-completed-an-offer-but-i-didnt-receive-the-coins?",
+                            "tutorials/how-to-change-my-theme-light-dark-theme?"
                         ]
                     }
                 ]
