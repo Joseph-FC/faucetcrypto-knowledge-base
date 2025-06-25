@@ -68,9 +68,12 @@
                         "group": "Account and Security",
                         "collapsible": true,
                         "pages": [
-                            "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
-                            "earning-and-leveling/how-to-register-on-faucetcrypto?",
-                            "earning-and-leveling/is-faucetcrypto-free-to-use?"
+                            "account-and-security/how-to-update-my-profile?",
+                            "account-and-security/how-to-change-password?",
+                            "account-and-security/how-to-enable-disable-2fa-security?",
+                           "account-and-security/i-lost-access-to-my-two-factor-authentication-app-how-can-i-access-my-account?",
+                            "account-and-security/how-to-delete-my-account?",
+                            "account-and-security/can-i-change-my-email?"
                         ]
                     },
                     {
