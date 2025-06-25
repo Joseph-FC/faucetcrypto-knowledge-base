@@ -95,7 +95,7 @@
             "type": "button",
             "label": "Contact Support",
             "href": "https://faucetcrypto.com/support",
-            "icon": "comment"
+            "icon": "messages"
         }
     },
     "footer": {
