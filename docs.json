@@ -3,9 +3,9 @@
     "theme": "maple",
     "name": "Faucet Crypto",
     "colors": {
-        "primary": "#9333ea",
-        "light": "#9333ea",
-        "dark": "#9333ea"
+        "primary": "#9333EA",
+        "light": "#9333EA",
+        "dark": "#9333EA"
     },
     "favicon": "/logo/faucetcrypto-favicon.svg",
     "decoration": "gradient",
@@ -77,23 +77,19 @@
                     }
                 ]
             }
-        ],
-        "global": {
-            "anchors": [
-                {
-                    "anchor": "Blog",
-                    "href": "https://faucetcrypto.com/blog",
-                    "icon": "newspaper"
-                }
-            ]
-        }
+        ]
     },
     "logo": {
         "light": "/logo/faucetcrypto-logo-light.svg",
         "dark": "/logo/faucetcrypto-logo-dark.svg"
     },
     "navbar": {
-        "links": [],
+        "links": [
+            {
+                "label": "Blog",
+                "href": "https://faucetcrypto.com/blog"
+            }
+        ],
         "primary": {
             "type": "button",
             "label": "Contact Support",
