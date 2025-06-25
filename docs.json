@@ -9,7 +9,6 @@
     },
     "favicon": "/logo/faucetcrypto-favicon.svg",
     "decoration": "gradient",
-    "eyebrows": "breadcrumbs",
     "navigation": {
         "tabs": [
             {
