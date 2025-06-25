@@ -43,9 +43,10 @@
                         "group": "Items and Market",
                         "collapsible": true,
                         "pages": [
-                            "items-and-market/where-can-i-find-my-items-and-how-can-i-activate-them?",
-                            "items-and-market/how-to-sell-items-or-cancel-a-sell-order?",
-                            "items-and-market/how-to-buy-items-from-the-market?"
+                            "items-and-market/what-are-items-and-how-do-i-get-item?",
+                            "items-and-market/where-can-I-find-my-Items-and-how-can-I-activate-them?",
+                            "items-and-market/how-to-sell-Items-or-cancel-a-sell-order?",
+                            "items-and-market/how-to-buy-Items-from-the-Market?"
                         ]
                     },
                     {
