@@ -15,7 +15,7 @@
                 "tab": "Knowledge Base",
                 "groups": [
                     {
-                        "section": "Get Started",
+                        "group": "Get Started",
                         "collapsible": true,
                         "pages": [
                             "get-started/what-is-faucetcrypto?",
