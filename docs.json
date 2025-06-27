@@ -12,7 +12,7 @@
         "decoration": "grid"
     },
     "appearance": {
-        "default": "light",
+        "default": "system",
         "strict": false
     },
     "eyebrows": "breadcrumbs",
