@@ -11,6 +11,10 @@
     "background": {
         "decoration": "grid"
     },
+    "appearance": {
+        "default": "system",
+        "strict": false
+    },
     "eyebrows": "breadcrumbs",
     "navigation": {
         "tabs": [
@@ -40,7 +44,7 @@
                             "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
                             "earning-and-leveling/what-are-offerwalls?",
                             "earning-and-leveling/what-are-levels-for-how-to-level-up-fast?",
-                          "earning-and-leveling/what-are-challenges?",
+                            "earning-and-leveling/what-are-challenges?",
                             "earning-and-leveling/i-have-noticed-an-offerwall-chargeback-on-my-account-what-can-i-do?",
                             "earning-and-leveling/what-is-a-trust-score?",
                             "earning-and-leveling/how-to-complete-bitcotasks-ptc-ads-successfully?"
@@ -74,7 +78,7 @@
                             "account-and-security/how-to-update-my-profile?",
                             "account-and-security/how-to-change-password?",
                             "account-and-security/how-to-enable-disable-2fa-security?",
-                           "account-and-security/i-lost-access-to-my-two-factor-authentication-app-how-can-i-access-my-account?",
+                            "account-and-security/i-lost-access-to-my-two-factor-authentication-app-how-can-i-access-my-account?",
                             "account-and-security/how-to-delete-my-account?",
                             "account-and-security/can-i-change-my-email?"
                         ]
@@ -106,12 +110,12 @@
                 "href": "https://faucetcrypto.com/blog",
                 "icon": "newspaper"
             },
-        {
-            "label": "Contact Support",
-            "href": "https://faucetcrypto.com/support",
-            "icon": "messages-question"
-        }
-      ]
+            {
+                "label": "Contact Support",
+                "href": "https://faucetcrypto.com/support",
+                "icon": "messages-question"
+            }
+        ]
     },
     "footer": {
         "socials": {
