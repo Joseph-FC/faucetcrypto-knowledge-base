@@ -11,7 +11,17 @@
     "background": {
         "decoration": "grid"
     },
+    "appearance": {
+        "default": "system",
+        "strict": false
+    },
     "eyebrows": "breadcrumbs",
+ "contextual": {
+   "options": [
+     "chatgpt",
+     "claude"
+   ]
+ },
     "navigation": {
         "tabs": [
             {
@@ -19,6 +29,7 @@
                 "groups": [
                     {
                         "group": "Get Started",
+                       "icon": "rocket",
                         "collapsible": true,
                         "pages": [
                             "get-started/what-is-faucetcrypto?",
@@ -35,12 +46,13 @@
                     },
                     {
                         "group": "Earning and Leveling",
+                        "icon": "trophy",
                         "collapsible": true,
                         "pages": [
                             "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
                             "earning-and-leveling/what-are-offerwalls?",
                             "earning-and-leveling/what-are-levels-for-how-to-level-up-fast?",
-                          "earning-and-leveling/what-are-challenges?",
+                            "earning-and-leveling/what-are-challenges?",
                             "earning-and-leveling/i-have-noticed-an-offerwall-chargeback-on-my-account-what-can-i-do?",
                             "earning-and-leveling/what-is-a-trust-score?",
                             "earning-and-leveling/how-to-complete-bitcotasks-ptc-ads-successfully?"
@@ -48,6 +60,7 @@
                     },
                     {
                         "group": "Items and Market",
+                        "icon": "gem",
                         "collapsible": true,
                         "pages": [
                             "items-and-market/what-are-items-and-how-do-i-get-item?",
@@ -58,6 +71,7 @@
                     },
                     {
                         "group": "Withdrawals",
+                        "icon": "money-bill-transfer",
                         "collapsible": true,
                         "pages": [
                             "withdrawals/what-is-the-minimum-withdraw-amount-and-fees?",
@@ -69,18 +83,20 @@
                     },
                     {
                         "group": "Account and Security",
+                        "icon": "shield-quartered",
                         "collapsible": true,
                         "pages": [
                             "account-and-security/how-to-update-my-profile?",
                             "account-and-security/how-to-change-password?",
                             "account-and-security/how-to-enable-disable-2fa-security?",
-                           "account-and-security/i-lost-access-to-my-two-factor-authentication-app-how-can-i-access-my-account?",
+                            "account-and-security/i-lost-access-to-my-two-factor-authentication-app-how-can-i-access-my-account?",
                             "account-and-security/how-to-delete-my-account?",
                             "account-and-security/can-i-change-my-email?"
                         ]
                     },
                     {
                         "group": "Tutorials",
+                        "icon": "square-question",
                         "collapsible": true,
                         "pages": [
                             "tutorials/i-get-anomaly-detected-error-when-solving-captcha-what-can-i-do?",
@@ -106,12 +122,12 @@
                 "href": "https://faucetcrypto.com/blog",
                 "icon": "newspaper"
             },
-        {
-            "label": "Contact Support",
-            "href": "https://faucetcrypto.com/support",
-            "icon": "messages-question"
-        }
-      ]
+            {
+                "label": "Contact Support",
+                "href": "https://faucetcrypto.com/support",
+                "icon": "messages-question"
+            }
+        ]
     },
     "footer": {
         "socials": {
