@@ -8,7 +8,9 @@
         "dark": "#9333EA"
     },
     "favicon": "/logo/faucetcrypto-favicon.svg",
-    "decoration": "gradient",
+    "background": {
+        "decoration": "gradient"
+    },
     "eyebrows": "breadcrumbs",
     "navigation": {
         "tabs": [
