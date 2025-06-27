@@ -15,13 +15,15 @@
         "default": "system",
         "strict": false
     },
-    "eyebrows": "breadcrumbs",
- "contextual": {
-   "options": [
-     "chatgpt",
-     "claude"
-   ]
- },
+    "styling": {
+        "eyebrows": "breadcrumbs"
+    },
+    "contextual": {
+        "options": [
+            "chatgpt",
+            "claude"
+        ]
+    },
     "navigation": {
         "tabs": [
             {
@@ -29,7 +31,7 @@
                 "groups": [
                     {
                         "group": "Get Started",
-                       "icon": "rocket",
+                        "icon": "rocket",
                         "collapsible": true,
                         "pages": [
                             "get-started/what-is-faucetcrypto?",
