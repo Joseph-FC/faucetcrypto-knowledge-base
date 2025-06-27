@@ -40,6 +40,7 @@
                     },
                     {
                         "group": "Earning and Leveling",
+                        "icon": "trophy",
                         "collapsible": true,
                         "pages": [
                             "earning-and-leveling/how-to-start-earning-on-faucetcrypto?",
@@ -53,6 +54,7 @@
                     },
                     {
                         "group": "Items and Market",
+                        "icon": "gem",
                         "collapsible": true,
                         "pages": [
                             "items-and-market/what-are-items-and-how-do-i-get-item?",
@@ -63,6 +65,7 @@
                     },
                     {
                         "group": "Withdrawals",
+                        "icon": "money-bill-transfer",
                         "collapsible": true,
                         "pages": [
                             "withdrawals/what-is-the-minimum-withdraw-amount-and-fees?",
@@ -74,6 +77,7 @@
                     },
                     {
                         "group": "Account and Security",
+                        "icon": "shield-quartered",
                         "collapsible": true,
                         "pages": [
                             "account-and-security/how-to-update-my-profile?",
@@ -86,6 +90,7 @@
                     },
                     {
                         "group": "Tutorials",
+                        "icon": "square-question",
                         "collapsible": true,
                         "pages": [
                             "tutorials/i-get-anomaly-detected-error-when-solving-captcha-what-can-i-do?",
