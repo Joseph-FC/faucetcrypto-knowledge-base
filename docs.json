@@ -1,6 +1,6 @@
 {
     "$schema": "https://faucetcrypto.mintlify.app/docs.json",
-    "theme": "mint",
+    "theme": "maple",
     "name": "Faucet Crypto",
     "colors": {
         "primary": "#9333EA",
@@ -16,7 +16,7 @@
         "strict": false
     },
     "styling": {
-        "eyebrows": "breadcrumbs"
+        "eyebrows": "section"
     },
     "contextual": {
         "options": [
