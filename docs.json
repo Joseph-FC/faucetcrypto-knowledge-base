@@ -16,7 +16,7 @@
         "strict": false
     },
     "styling": {
-        "eyebrows": "breadcrumbs"
+        "eyebrows": "section"
     },
     "contextual": {
         "options": [
