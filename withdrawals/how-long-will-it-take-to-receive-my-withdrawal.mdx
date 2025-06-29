@@ -2,4 +2,42 @@
 title: "How long will it take to receive my withdrawal?"
 ---
 
-testing
+**Faucet Crypto** utilizes a **batch payment/transaction system** to process the payment of all the cryptocurrencies available for withdrawal automatically.
+
+---
+
+### What does batch payment/transactions mean?
+
+To make it simple, Batch Payment/Transaction is the bundling of a series of transactions to process them as one group. This means all users withdrawal requests are bundled into a single transaction before being broadcasted to the network at once.
+
+How long it takes to receive your withdrawal depends on a couple of factors. For example, we cannot influence the speed of blockchain transactions or how fast miners can confirm a transaction. But, there are a couple of things to keep in mind when requesting a withdrawal:
+
+- Upon requesting a withdrawal, **your payment will go into a batch pool**, alongside every other user who have also submitted a withdrawal request.
+- This will then set your withdrawal status to "**_Processing_**". You can check the withdrawal status at your account's **Withdrawal History** table found on the **Withdraw page**
+
+<Frame>
+  Adjust the caption and image of your Frame component here.
+</Frame>
+
+- Once the **batch pool** threshold is attained/reached, the **withdrawal status** will be updated and labelled as "**_Completed_**". Our payment system will then automatically send all payments in the pool by broadcasting them to the blockchain network.
+
+<Frame>
+  Adjust the caption and image of your Frame component here.
+</Frame>
+
+- You may click on the withdrawal status ("**_Completed_**") to find the withdrawal detail such as: transaction hash/link (TxID), date & timestamps, your withdrawal address, coins withdrawn and its equivalent crypto amount which you received etc.
+- The transaction hash/link (TxID) can be used to track the withdrawal via a **_block explorer_**. From this stage, it depends on the network load and how fast it can be confirmed by miners. Usually, this particular stage (ie. confirmations on the network) should take less than 24 hours — bearing in mind that the more congested the network is, the longer it could take for the transaction to get confirmed.
+
+---
+
+### Summary
+
+If the **withdrawal status** is seen as "**_Processing_**" on your **History** table, this means the payment hasn't been broadcasted to the network (ie. not yet sent, and is still in the batch pool); when the withdrawal status shows as "**_Completed_**", it means the payment has been broadcasted to the network/sent successfully. You can then track the withdrawal via a block explorer through the transaction hash (TxID).
+
+<Note>
+  **Note:**
+
+  - _All withdrawal requests are automatically processed and broadcasted to the network if the batch pool threshold isn't met after 24 hours_
+  - _The exact amount of crypto you withdrew/cashed out your coins for is what you'll receive on your address whenever the transaction is broadcasted to the network. This holds true irrespective of the cryptocurrency market price changes during the period your withdrawal was still on "Processing" status_
+  - _If a crypto is placed on Maintenance while your withdrawal is still "Processing", our system will automatically refund the coins back to your Coins balance_
+</Note>
