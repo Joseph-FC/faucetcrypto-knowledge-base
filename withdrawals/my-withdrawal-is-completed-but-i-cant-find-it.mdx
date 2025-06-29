@@ -2,4 +2,55 @@
 title: "My withdrawal is completed but I can't find it"
 ---
 
-testing
+**Faucet Crypto** sends out withdrawals directly through the blockchain — with **transaction hash** (**_TxID_**) **generated** when the withdrawal process is completed. This method ensures **everything is transparent**, meaning anyone with the transaction hash/ID can search or view the withdrawal transaction in a block explorer and see the confirmation status, recipient address, date & time of the transaction alongside many other details.
+
+If you made a withdrawal, which is now labelled "_Completed_" in your withdrawal history, but you cannot seem to find nor see the coins reflect in your wallet app, here's a series of steps you should follow to accurately track the coins:
+
+1. First, ensure you had used a **correct/valid address for the respective blockchain network** prior to initially clicking "_Submit withdraw_" when withdrawing (see [this guide](https://faucetcrypto.mintlify.app/withdrawals/how-to-withdraw-from-faucetcrypto?) about "_How to withdraw from Faucet Crypto_"). If _YES_, proceed to #2 below.
+2. Scroll down the left-side menu to the **PROFILE** section, and click on the **Withdraw** option/page to open it up, then click on "_Open_" where it says "**Withdrawal History**" to show your full Withdrawal History
+
+<Frame>
+  ![Faucetcrypto Withdraw Withdrawalhistory Open Pn](/images/faucetcrypto-withdraw-withdrawalhistory-open.png)
+</Frame>
+
+3. Once your full Withdrawal History shows, **click on the specific withdrawal you have an issue** with to bring up more details about it ie. Transaction flow from "_Submission_", "_Processing_" to "_Completed_" (including date & time stamps); Amount of Coins withdrawn and the equivalent crypto amount to be received; Your withdrawal address; and most importantly, **the transaction hash/ID** (abbreviated as **TxID**)
+
+<Frame>
+  ![Faucetcrypto Withdrawalhistory Polygon Completed Pn](/images/faucetcrypto-withdrawalhistory-polygon-completed.png)
+</Frame>
+
+<Frame>
+  ![Faucetcrypto Withdrawalhistory Withdrawaldetails Pn](/images/faucetcrypto-withdrawalhistory-withdrawaldetails.png)
+</Frame>
+
+4. **The transaction hash/ID (TxID) is the single unique identifier to verify that your withdrawal was sent**, and it is what you will use in tracking your transaction on a **Block Explorer** to confirm with 100% certainty
+
+<Tip>
+_A Block Explorer is simply a web application that lets you 'peek inside the blockchain', searching transactions, addresses, and even Live activity. Each blockchain network has at least one block explorer. For example, [mempool.space](http://mempool.space) is a versatile block explorer for Bitcoin network; [polygonscan.com](http://polygonscan.com) is a block explorer for Polygon network; and in some cases, you may find a block explorer that supports multiple networks eg. [blockchair.com](http://blockchair.com)_
+</Tip>
+
+5. That said, **at the Withdrawal Details Modal**, either click the "_copy_" icon to **copy the TxID** and manually input/paste it into a related Block Explorer for the associated crypto and search **_OR simply click the "Link" icon_** to automatically open it in it's related Block Explorer and track the transaction.
+6. Once it opens, generally (but using this Polygon withdrawal as an example on [polygonscan](https://polygonscan.com)) pay attention to a section that says "**Status**" (and/or "**No. of Confirmations**" for some network block explorers). **Being marked as 'Success', 'Confirmed', 'Successful' or anything similar... with 1 or more No. of Confirmations is 100% verifiable assurance that the transaction was accurately sent**. You can also see your address, amount transacted and other details pertaining to the whole withdrawal.
+
+<Frame>
+  ![Polygonscan Validtransaction Pn](/images/polygonscan-validtransaction.png)
+</Frame>
+
+From there onwards, **if you still cannot see the amount in your wallet app**, it may be that:
+
+- your wallet app is not pulling up updated information from the blockchain correctly; OR
+- your wallet app requires more No. of Confirmations on the blockchain before it can show the updated coins/balance (in which case you should just give it time).
+
+7. In any case, if the **block explorer** shows the withdrawal status as **_Success_**, **_Confirmed_**, **_Successful_** or anything similar, and you need further help, **please contact your wallet's app Customer Support team with your address and TxID**, and they'll be the ones to address your concerns further.
+
+---
+
+### ...but, mine says "Invalid TXN" or "Transaction not found" in a block explorer\! What should I do?
+
+Hey, don't panic if you try tracking the transaction on a block explorer as outlined through the steps above, but you end up with a screen on the block explorer saying "**_Invalid Txn_**" or "**_Transaction not found_**" or something similar like in the image below:
+
+<Frame>
+  ![Polygonscan Invalidtransaction Pn](/images/polygonscan-invalidtransaction.png)
+</Frame>
+
+In this case, please open a ticket at our [Support Center](https://faucetcrypto.com/support) and provide the necessary details in the support form provided, our team will look into it conclusively to ensure there are no unknown issues and give you timely feedback directly via your ticket.
