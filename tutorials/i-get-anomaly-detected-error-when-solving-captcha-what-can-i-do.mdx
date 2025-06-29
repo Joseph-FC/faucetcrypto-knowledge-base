@@ -2,4 +2,20 @@
 title: "I get Anomaly Detected error when solving captcha. What can I do?"
 ---
 
-testing
+Captcha is adapted at strategic points on the website to mitigate and combat bots. **You may get the "Anomaly Detected" error when you try to use third-party services to solve captchas**. These third-party services often have anti-trackers that try to **interfere with Cloudflare Turnstile** by mistake.
+
+Cloudflare Turnstile doesn't usually show the traditional interactive captchas, instead it employs non-visual puzzles behind the scenes to verify real users and only shows a visible one-click captcha box occasionally. **Turnstile stops abuse and confirms visitors are real without the data privacy concerns or awful user experience of traditional captchas**, and it doesn't track you on anything. By interfering with it's designed function, you cause issues that raise and bring up the error.
+
+---
+
+## What can I do if I encounter such error?
+
+There are two (3) self-fix steps you must perform in other to resolve the error:
+
+- Disable any of such third-party services you may have employed for solving captchas.
+- Disable any browser extensions that may manipulate the website page (eg. ad-blockers).
+- If you're using a mobile device, ensure desktop mode/view is disabled in your browser setting, as it wouldn't allow smooth solving of turnstile.
+
+<Danger>
+  **Note:** _Use of third-party services to solve captchas (or enabling ad-blockers) goes against our Terms of Service, and you risk being banned permanently_
+</Danger>
